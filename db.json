@@ -88,7 +88,7 @@
       "category_id": "1",
       "brand_id": "1",
       "store_id": "6",
-      "img": "Canon-EOS-700D-175x175.jpg",
+      "img": "https://i.imgur.com/1FXWqxr.jpg",
       "modified": "2018-03-18 05:00:00",
       "created": "2018-03-18 03:00:00"
     },
@@ -100,7 +100,7 @@
       "category_id": "5",
       "brand_id": "6",
       "store_id": "4",
-      "img": "Canon-SX60-175x175.jpg",
+      "img": "https://i.imgur.com/P5baySr.jpg",
       "modified": "2018-03-18 05:00:00",
       "created": "2018-03-18 03:00:00"
     },
@@ -112,7 +112,7 @@
       "category_id": "2",
       "brand_id": "3",
       "store_id": "7",
-      "img": "Nikon-Coolpix-B500-175x175.jpg",
+      "img": "https://i.imgur.com/GP0BvF1.jpg",
       "modified": "2018-03-18 04:13:00",
       "created": "2018-03-18 01:00:00"
     },
@@ -124,7 +124,7 @@
       "category_id": "3",
       "brand_id": "3",
       "store_id": "1",
-      "img": "Nikon-Coolpix-A900-Digital-Camera-Silver-175x175.jpg",
+      "img": "https://i.imgur.com/coGTVjC.jpg",
       "modified": "2018-03-18 13:00:00",
       "created": "2018-03-18 06:00:00"
     },
@@ -136,7 +136,7 @@
       "category_id": "5",
       "brand_id": "4",
       "store_id": "4",
-      "img": "Canon-EF-24-70mm-f4L-IS-USM-Lens-175x175.jpg",
+      "img": "https://i.imgur.com/tNHcgsI.jpg",
       "modified": "2018-03-18 04:00:00",
       "created": "2018-03-18 04:00:00"
     }
