@@ -1,0 +1,241 @@
+{
+  "brands": [
+    {
+      "id": "1",
+      "name": "ABC Design"
+    },
+    {
+      "id": "2",
+      "name": "Apple"
+    },
+    {
+      "id": "3",
+      "name": "Beko"
+    },
+    {
+      "id": "4",
+      "name": "Blackmagic"
+    },
+    {
+      "id": "5",
+      "name": "BlackVue"
+    },
+    {
+      "id": "6",
+      "name": "Bosch "
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Technology",
+      "parent_id": "0"
+    },
+    {
+      "id": "2",
+      "name": "Home Electrical",
+      "parent_id": "0"
+    },
+    {
+      "id": "3",
+      "name": "Baby & Toddler",
+      "parent_id": "0"
+    },
+    {
+      "id": "4",
+      "name": "Sports & Leisure",
+      "parent_id": "0"
+    },
+    {
+      "id": "5",
+      "name": "Digital Cameras",
+      "parent_id": "1"
+    },
+    {
+      "id": "6",
+      "name": "Camcorders",
+      "parent_id": "1"
+    }
+  ],
+  "features": [
+    {
+      "id": "1",
+      "name": "3d"
+    },
+    {
+      "id": "2",
+      "name": "compact"
+    },
+    {
+      "id": "3",
+      "name": "dslr"
+    },
+    {
+      "id": "4",
+      "name": "gps"
+    },
+    {
+      "id": "5",
+      "name": "waterproof"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Canon EOS 700D",
+      "description": "An immediate all- the Canon EOS 700D refreshes precisely what created the 650D fantastic with ingenious style variations and improved features, round vintage. It comes filled with a robust 18-megapixel sensor to recapture photos in legitimate-to- with precise lifestyle quality shading. A robust cpu additionally makes swift that is clean and fast autofocus -flame firing possible. The EOS 700D actually helps Complete HD movie record with autofocus assistance for pin benefits that are sharp shooting pictures or whether building a residence film. This camera comes with a 18-55mm photograph stabilising",
+      "price": "315.99",
+      "category_id": "1",
+      "brand_id": "1",
+      "store_id": "6",
+      "img": "Canon-EOS-700D-175x175.jpg",
+      "modified": "2018-03-18 05:00:00",
+      "created": "2018-03-18 03:00:00"
+    },
+    {
+      "id": "2",
+      "name": "Canon SX60",
+      "description": "The 21 mm lens offers a watch that is wide also, in order to get beautiful photographs",
+      "price": "349",
+      "category_id": "5",
+      "brand_id": "6",
+      "store_id": "4",
+      "img": "Canon-SX60-175x175.jpg",
+      "modified": "2018-03-18 05:00:00",
+      "created": "2018-03-18 03:00:00"
+    },
+    {
+      "id": "3",
+      "name": "Nikon Coolpix B500",
+      "description": "Explore the power of its Nikkor 40x optical zoom, extendable to 80x Dynamic Fine Zoom, putting you at the heart of the action, with the side zoom control adding to superb stability. Take a unique viewpoint with the high-definition tilting LCD monitor, easily recapture subjects with the Snap-back zoom button and keep your camera connected to your smart device with SnapBridge. Intuitive operation makes shooting simple and frequently used functions can be accessed via the mode dial, while the classic design feels comfortable in your hands",
+      "price": "184.99",
+      "category_id": "2",
+      "brand_id": "3",
+      "store_id": "7",
+      "img": "Nikon-Coolpix-B500-175x175.jpg",
+      "modified": "2018-03-18 04:13:00",
+      "created": "2018-03-18 01:00:00"
+    },
+    {
+      "id": "4",
+      "name": "Nikon Coolpix A900 Digital Camera Silver",
+      "description": "The 20.3-megapixel Coolpix A900 delivers outstanding performance in a compact body. Enjoy exceptional quality Nikkor optics in a pocket-sized body to fit any lifestyle: shoot stunning travel scenes in fine detail with the high-power 35x optical zoom lens, extendable to 70x Dynamic Fine Zoom, or capture memorable moments in crisp 4K UHD movies. Get creative with the tilting screen and manual exposure modes (P/S/A/M), and keep your camera connected to your smart device with SnapBridge. Be ready to shoot at a moment?s notice with High-speed AF, easily recapture a subject with the Snap-back zoom button.",
+      "price": "271.99",
+      "category_id": "3",
+      "brand_id": "3",
+      "store_id": "1",
+      "img": "Nikon-Coolpix-A900-Digital-Camera-Silver-175x175.jpg",
+      "modified": "2018-03-18 13:00:00",
+      "created": "2018-03-18 06:00:00"
+    },
+    {
+      "id": "5",
+      "name": "Canon EF 24 70mm f4L IS USM Lens",
+      "description": "A9- edge rounded diaphragm produces, delicate skills that are stunning. It contains a macro setting in the telephoto and includes the absolute minimum focusing length of 1.25 legs throughout the total zoom array finish with around 0.7x magnification and is readily available using a one -effect move. It includes there IS a Cross program with upto 4 ceases of stabilization, paying for equally move and angular varieties of camera-shake, supplying efficient stabilization also. Interior focusing and band-kind USM offer, rapidly, tranquil whole, and AF -period manual-focus is not unavailable for guide",
+      "price": "725.26",
+      "category_id": "5",
+      "brand_id": "4",
+      "store_id": "4",
+      "img": "Canon-EF-24-70mm-f4L-IS-USM-Lens-175x175.jpg",
+      "modified": "2018-03-18 04:00:00",
+      "created": "2018-03-18 04:00:00"
+    }
+  ],
+  "product_features": [
+    {
+      "id": "1",
+      "product_id": "1",
+      "feature_id": "1"
+    },
+    {
+      "id": "2",
+      "product_id": "1",
+      "feature_id": "2"
+    },
+    {
+      "id": "3",
+      "product_id": "1",
+      "feature_id": "4"
+    },
+    {
+      "id": "4",
+      "product_id": "3",
+      "feature_id": "5"
+    },
+    {
+      "id": "5",
+      "product_id": "3",
+      "feature_id": "1"
+    },
+    {
+      "id": "6",
+      "product_id": "4",
+      "feature_id": "4"
+    },
+    {
+      "id": "7",
+      "product_id": "4",
+      "feature_id": "1"
+    },
+    {
+      "id": "8",
+      "product_id": "4",
+      "feature_id": "2"
+    },
+    {
+      "id": "9",
+      "product_id": "4",
+      "feature_id": "3"
+    },
+    {
+      "id": "10",
+      "product_id": "4",
+      "feature_id": "5"
+    },
+    {
+      "id": "11",
+      "product_id": "2",
+      "feature_id": "1"
+    },
+    {
+      "id": "12",
+      "product_id": "2",
+      "feature_id": "2"
+    },
+    {
+      "id": "13",
+      "product_id": "2",
+      "feature_id": "3"
+    },
+    {
+      "id": "14",
+      "product_id": "2",
+      "feature_id": "5"
+    },
+    {
+      "id": "15",
+      "product_id": "5",
+      "feature_id": "4"
+    },
+    {
+      "id": "16",
+      "product_id": "5",
+      "feature_id": "3"
+    },
+    {
+      "id": "17",
+      "product_id": "5",
+      "feature_id": "2"
+    },
+    {
+      "id": "18",
+      "product_id": "5",
+      "feature_id": "1"
+    },
+    {
+      "id": "19",
+      "product_id": "5",
+      "feature_id": "5"
+    }
+  ]
+}
